@@ -18,9 +18,12 @@ Write the C Program using Linux Process API - Shared Memory
 
 Execute the C Program for the desired output. 
 
+# PROGRAM:
+DEVELOPED BY: GAUTHAM KRISHNA
 
+REG.NO:212223240036
 ## Write a C program that illustrates two processes communicating using shared memory.
-~~~
+```
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
@@ -46,13 +49,11 @@ int main()
 
 	return 0;
 }
-~~~
+```
 
 ## OUTPUT
 
-![image (2)](https://github.com/user-attachments/assets/fb77d02a-e759-4e15-9988-d6fa6d8ba831)
-
-
+![image](https://github.com/user-attachments/assets/d4bc6ce8-7de7-41ca-8465-c874e52e129d)
 
 # RESULT:
 The program is executed successfully.
